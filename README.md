@@ -1,4 +1,4 @@
-<h1 align = "center">Merlin Fashion🛒</h1>
+<h1 align = "center">Monica Fashion🛒</h1>
 
 
 <p align="center">Refresh Your Wardrobe!🛍️ 
@@ -21,5 +21,5 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
   </p>
  <p align="center">
  Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
+   https://singh-shivani.github.io/Monica-Fashion/
 </p>
